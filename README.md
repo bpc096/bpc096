@@ -19,7 +19,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/bpc096" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bpc096" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/billpetrus96" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bpc096" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/14510587/bill-petrus" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="14510587/bill-petrus" height="30" width="40" /></a>
 <a href="https://fb.com/billpetrus.cerullogabriel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="billpetrus.cerullogabriel" height="30" width="40" /></a>
 <a href="https://instagram.com/cgbillpetrus" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="cgbillpetrus" height="30" width="40" /></a>
