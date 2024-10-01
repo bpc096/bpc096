@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently looking for opportunity in **Software Engineer or Developer, BE and FE Developer, Data Science, etc.**
 
-- 🌱 I’m currently learning **Javascript**
+- 🌱 I’m currently pursuing **Master Degree in Information Technology** in **University of Indonesia**
 
 - 💬 Ask me about **Python, Java, C#, PHP, Laravel, Postman API, REST APIs, RASA Platform, .NET MVC**
 
